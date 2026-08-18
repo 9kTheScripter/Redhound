@@ -24,6 +24,9 @@ Designed with a futuristic command-center aesthetic, Red Hound provides a collec
 | 🕵️ **Steganography Tools** | Tools for analyzing and working with hidden data |
 
 ---
+<p align="center">
+  <img src="assets/dashboard.png" alt="Red Hound Dashboard" width="1000">
+</p>
 
 ## 🖥️ Interface
 
