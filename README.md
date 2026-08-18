@@ -25,7 +25,7 @@ Designed with a futuristic command-center aesthetic, Red Hound provides a collec
 
 ---
 <p align="center">
-  <img src="assets/dashboard.png" alt="Red Hound Dashboard" width="1000">
+  <img src="assets/Redhound.png" alt="Red Hound Dashboard" width="1000">
 </p>
 
 ## 🖥️ Interface
